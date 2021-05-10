@@ -1,4 +1,5 @@
-##**COVID 19 Detection**
+**COVID 19 Detection**
+
 Team Members 👨🏻‍💻:
 
 Rishikesh Rane
