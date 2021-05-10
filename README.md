@@ -69,13 +69,3 @@ To build a CNN model for detecting COVID-19 and create a complete end to end Pro
 
 ### **Loss:**
 <img src="https://github.com/manthanpatel98/Covid-19-Detection/blob/master/images/loss.png" height="250">
-
----
-
-* Detail code about training model is available in [**Covid(GoogleColab).ipynb**](https://github.com/manthanpatel98/Covid-19-Detection/blob/master/Covid(GoogleColab).ipynb) and prediction based code is available in [**Covid.ipynb**](https://github.com/manthanpatel98/Covid-19-Detection/blob/master/Covid.ipynb).
-
-* Check [**app.py**](https://github.com/manthanpatel98/Covid-19-Detection/blob/master/app.py) regarding WebApp code.
-
-* Our Final Trained model is [**covid.h5**](https://github.com/manthanpatel98/Covid-19-Detection/blob/master/covid.h5).
-
-
