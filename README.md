@@ -1,14 +1,20 @@
 **COVID 19 Detection**
-
+_
 Team Members 👨🏻‍💻:
+_
 
 Rishikesh Rane
 Raghav Dabra 
+
+_
 Aim ✅:
+_
 
-COVID has been really hard on everyone's life, many of them have lost their family members, relative, friends. Their loss is irreplaceable, seeing this situtaions me and my Team came up with an idea of making a  detection web app which is easily accesible to everyone who needs some help regarding hopsitals, management of COVID +ve patients. We really hope to make some impact in these situations through our Website .
+COVID has been really hard on everyone's life, many of them have lost their family members, relative, friends. Their loss is irreplaceable, seeing this situtaions me and my Team came up with an idea of making a  detection web app which is easily accesible to everyone who needs some help regarding hopsitals, management of COVID +ve patients. We really hope to make some impact in these situations through our Website.
 
+_
 Objective 🎯:
+_
 
 During these tough times, many people are unable to get in touch of the doctors and get the advice about their reposts whether the person is having covid+ or not. So at the moment when they or any of their close members are suffering from the same situation they are unable to make any spontaneous decision which results into dealy of actions and ultimately the person succumbs to the diseases. 
 
